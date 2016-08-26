@@ -1,0 +1,27 @@
+.back{
+
+	background-image: url(../image/large.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	opacity: 0.9;
+	
+}
+.text-center{
+	text-align: center;
+}
+.logo{
+	width: 30% ;
+	height:60% ;
+}
+.blue{
+	background-color:  #3333ff;
+}
+.text-white{
+ 	color:white;
+}
+.bton{
+	background-color: #3333ff;
+	border: 1px solid white;
+	opacity: 0.8;
+	margin-top: 5%;
+}
